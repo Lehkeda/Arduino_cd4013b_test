@@ -1,4 +1,4 @@
-##CD4013BE CMOS Dual D-TypeFlip-Flop 
+## CD4013BE CMOS Dual D-TypeFlip-Flop 
 
 ### There are two ways to operate this IC
  - ##### Method #1
